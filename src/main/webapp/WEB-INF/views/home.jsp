@@ -2,7 +2,7 @@
 <%@ page session="false" %>
 <html>
 <head>
-	<title>HelloJava</title>
+	<title>Hello Spring & Java</title>
 </head>
 <body>
 <h1>
